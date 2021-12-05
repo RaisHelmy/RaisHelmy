@@ -1,4 +1,4 @@
-![](https://github.com/RaisHelmy/RaisHelmy/blob/main/gambar.jpg?raw=true | width=100)
+![](gambar.jpg)
 
 - 👋 Hi, I’m @RaisHelmy
 - 👀 I’m interested in ...
