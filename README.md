@@ -1,10 +1,11 @@
-![](gambar.jpg)
-
-- 👋 Hi, I’m @RaisHelmy
+![](gambar.jpg) | - 👋 Hi, I’m @RaisHelmy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+
+
 
 <!---
 RaisHelmy/RaisHelmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
