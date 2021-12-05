@@ -1,4 +1,4 @@
-![alt text](gambar.jpg | width=100)
+![](gambar.jpg | width=100)
 
 - 👋 Hi, I’m @RaisHelmy
 - 👀 I’m interested in ...
