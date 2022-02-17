@@ -1,4 +1,4 @@
-![](gambar.jpg) | - 
+
 
 <h1 align="center">Hi 👋, I'm RAIS HELMY</h1>
 <h3 align="center">.NET C# FULL STACK DEVELOPER</h3>
