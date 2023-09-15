@@ -5,14 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raishelmy&label=Profile%20views&color=0e75b6&style=flat" alt="raishelmy" /> </p>
 
-- 🔭 I’m currently working on my personal Project [RH Ultraverse](www.raishelmy.tech)
+- 🔭 I’m currently working on my personal Project 👌 Vite, React, Pug, .NET, SQL and PSQL
 
 - 🌱 I’m currently building career on **.NET full time**
 
 - 👨‍💻 All of my projects are available at [raishelmy.tech/portfolio](raishelmy.tech/portfolio)
 
 - 💬 Ask me about **.NET, C#, React, Javascript, PHP, Three.js (WebGL and OpenGL),Java, Python, Go, Rust,**
-
+- 
 - 📄 Know about my experiences [raishelmy.tech/resume.pdf](raishelmy.tech/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
